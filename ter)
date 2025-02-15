@@ -1,0 +1,32 @@
+[33mcommit 6f812454897175a09757b6a4d029f4630158fe73[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Mohammad Noruzi <ismailnoruzi@gmail.com>
+Date:   Sat Feb 15 13:46:00 2025 +0330
+
+    sdaf
+
+ asma.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 1ded8a5bb4c3611793fb17751fa72b87f11dbb38[m
+Author: Mohammad Noruzi <ismailnoruzi@gmail.com>
+Date:   Sat Feb 15 13:38:48 2025 +0330
+
+    fae
+
+ .gitignore | 1 [32m+[m
+ Js-Game    | 1 [32m+[m
+ asma.txt   | 1 [32m+[m
+ kosar.txt  | 1 [32m+[m
+ mon.txt    | 1 [32m+[m
+ 5 files changed, 5 insertions(+)
+
+[33mcommit e064553ab1b355dbd66f3963f66e4bc6bc2ea3da[m
+Author: Mohammad Noruzi <ismailnoruzi@gmail.com>
+Date:   Sat Feb 15 13:05:34 2025 +0330
+
+    Sabt
+
+ asma.txt  | 0
+ kosar.txt | 0
+ mon.txt   | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
